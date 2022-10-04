@@ -1,0 +1,5 @@
+﻿num,dep,arr,fleet,airline
+300/301,RPLL,VHHH,A321-200,Philippine Airlines
+35H/36H,RPLL,RCTP,A319-100,Philippine Airlines
+300/301,VHHH,RPLL,A321-200,Philippine Airlines
+35H/36H,RCTP,VHHH,A319-100,Philippine Airlines

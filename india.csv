@@ -1,0 +1,29 @@
+﻿num,dep,arr,time,fleet,airline
+AI5150,OEJN,VISR,3:40,A320,"Air India
+"
+AI83,VABB,VOUO,1:15,737-800,"Air India
+"
+AI104(A),VAPP,KIAD,15:30,787,"Air India
+"
+AI276,VCBI,VABB,2:00,A321,"Air India
+"
+AI406,VIBN,VIAU,1:10,A319,"Air India
+"
+AI335,VIBS,VIDP,4:35,A321,"Air India
+"
+AI10,VIDP,VAAH,1:25,A320,"Air India
+"
+AI349,VIDP,ZSPD,6:10,787-8,"Air India
+"
+AI35,VIDP,VEUY,1:30,A320,"Air India
+"
+AI407,VIDP,VEPT,1:35,A319,"Air India
+"
+AI105,VIPP,KEWR,14:20,777-300,"Air India
+"
+AI167,VIPP,ESSA,7:20,787-8,"Air India
+"
+AI266,VRWN,VOBL,1:55,A321,"Air India
+"
+AI20,VZDP,VELL,2:15,737-800,"Air India
+"

@@ -1,0 +1,23 @@
+﻿num,dep,arr,fleet,airline
+BA812,EGLL,EKCH,"A319, A320",British Airways
+BA500,EGLL,LPPT,"A319, A320, A321",British Airways
+BA342,EGLL,LFMN,"A319, A320",British Airways
+BA982,EGLL,EDDB,"A319, A320, A321",British Airways
+BA950,EGLL,EDDM,"A319, A320, A321",British Airways
+BA1370,EGLL,EGCC,"A319, A320, A321",British Airways
+BA1326,EGLL,EGNT,"A319, A320, A321",British Airways
+BA712,EGLL,LSZH,"A319, A320, A321",British Airways
+BA360,EGLL,LFLL,"A319, A320",British Airways
+BA862,EGLL,LKPR,"A319, A320",British Airways
+BA962,EGLL,EDDH,"A319, A320",British Airways
+BA813,EKCH,EGLL,"A319, A320",British Airways
+BA501,LPPT,EGLL,"A319, A320, A321",British Airways
+BA343,LFMN,EGLL,"A319, A320",British Airways
+BA983,EDDB,EGLL,"A319, A320, A321",British Airways
+BA951,EDDM,EGLL,"A319, A320, A321",British Airways
+BA1371,EGCC,EGLL,"A319, A320, A321",British Airways
+BA1327,EGNT,EGLL,"A319, A320, A321",British Airways
+BA713,LSZH,EGLL,"A319, A320, A321",British Airways
+BA361,LFLL,EGLL,"A319, A320",British Airways
+BA863,LKPR,EGLL,"A319, A320",British Airways
+BA963,EDDH,EGLL,"A319, A320",British Airways

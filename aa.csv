@@ -1,0 +1,72 @@
+﻿num,dep,arr,time,fleet,airline
+AA125,KDFW,VHHH,16:20,B77W,American Airlines
+AA126,VHHH,KDFW,15:15,B77W,American Airlines
+AA73,KLAX,YSSY,15:00,B77W,American Airlines
+AA72,YSSY,KLAX,13:31,B77W,American Airlines
+AA281 (A),KDFW,RKSI,14:30,B772,American Airlines
+AA280 (B),RKSI,KDFW,11:30,B772,American Airlines
+AA292,KJFK,VIDP,14:10,B77W,American Airlines
+AA293,VIDP,KJFK,15:50,B77W,American Airlines
+AA222,KBOS,KLAX,6:44,A321,American Airlines
+AA1360 (B),KLAX,KBOS,5:38,A321,American Airlines
+AA135,EGLL,KLAX,11:30,B77W,American Airlines
+AA136,KLAX,EGLL,10:40,B77W,American Airlines
+AA79,EGLL,KDFW,10:15,B77W,American Airlines
+AA78,KDFW,EGLL,9:10,B77W,American Airlines
+AA155,EGLL,KSEA,9:45,B772,American Airlines
+AA156,KSEA,EGLL,8:40,B772,American Airlines
+AA235,LIRF,KJFK,9:35,B772,American Airlines
+AA236,KJFK,LIRF,8:15,B772,American Airlines
+AA220 (2),KDFW,EHAM,9:25,B772,American Airlines
+AA221,EHAM,KDFW,10:40,B789,American Airlines
+AA945,KDFW,SCEL,9:34,B772,American Airlines
+AA940,SCEL,KDFW,10:07,B772,American Airlines
+AA104,KJFK,EGLL,7:05,B77W,American Airlines
+AA105,EGLL,KJFK,8:05,B77W,American Airlines
+AA302 (B),KJFK,KLAX,6:32,A321,American Airlines
+AA2,KLAX,KJFK,5:49,B772,American Airlines
+AA18 (1),KSFO,KJFK,5:48,A321,American Airlines
+AA226 (C),KJFK,KSFO,6:46,A321,American Airlines
+AA9633,KLAX,KSFO,1:25,A321,American Airlines
+,,,,,American Airlines
+"AA9244
+  (C)",CYYZ,KLAX,5:30,A321,American Airlines
+"AA2654
+  (A)",KLAX,CYYZ,5:10,A320,American Airlines
+AA263 (B),KDFW,ZBAA,13:55,B788,American Airlines
+AA262 (A),ZBAA,KDFW,13:45,B788,American Airlines
+AA128,ZSPD,KDFW,13:50,B788,American Airlines
+AA127,KDFW,ZSPD,15:10,B788,American Airlines
+AA181 (1),KLAX,ZBAA,12:45,B788,American Airlines
+AA180,ZBAA,KLAX,12:40,B788,American Airlines
+AA182,ZSPD,KLAX,12:20,B788,American Airlines
+AA183,KLAX,ZSPD,13:40,B788,American Airlines
+AA27,KLAX,RJTT,11:40,B788,American Airlines
+AA26,RJTT,KLAX,10:25,B788,American Airlines
+AA145,LLBG,KJFK,11:30,B772,American Airlines
+AA146,KJFK,LLBG,10:00,B772,American Airlines
+AA954,SAEZ,KJFK,10:46,B772,American Airlines
+AA953 (2),KJFK,SAEZ,10:53,B772,American Airlines
+AA951 (1),KJFK,SBGR,9:55,B77W,American Airlines
+AA950,SBGR,KJFK,9:45,B77W,American Airlines
+AA2229 (B),KBOS,KPHX,5:40,A321,American Airlines
+AA2320 (B),KPHX,KBOS,5:00,A321,American Airlines
+AA984 (2),SUMU,KMIA,9:26,B772,American Airlines
+AA984 (2),SUMU,KMIA,9:26,B772,American Airlines
+AA203 (A),EHAM,KPHL,7:55,B789,American Airlines
+AA204 (A),KPHL,EHAM,6:35,B789,American Airlines
+AA582 (B),KPHL,KLAX,6:00,A321,American Airlines
+AA2083 (A),KLAX,KPHL,5:26,B772,American Airlines
+"AA2320
+  (B)",KPHX,KBOS,5:00,A321,American Airlines
+AA2229 (B),KBOS,KPHX,5:40,A321,American Airlines
+AA1970 (A),KPHL,KPHX,5:04,A321,American Airlines
+AA854 (C),KPHX,KPHL,4:46,A321,American Airlines
+"AA2349
+  (2A)",KLAS,KMIA,4:54,B738,American Airlines
+AA1795 (B),KMIA,KLAS,5:23,A321,American Airlines
+"AA1103
+  (1A)",KORD,CYVR,4:39,B738,American Airlines
+,,,,,American Airlines
+AA254 (1),PHOG,KLAX,5:24,A321,American Airlines
+AA271,KLAX,PHOG,5:52,A321,American Airlines

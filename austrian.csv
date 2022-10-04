@@ -1,0 +1,71 @@
+﻿num,dep,arr,time,fleet,airline
+OS81,Vienna (LOWW),Los Angeles (KLAX),12:15,777-200ER,Austrian 
+OS51,Vienna (LOWW),Tokyo (RJAA),11:05,777-200ER,Austrian 
+OS75,Vienna (LOWW),Shanghai (ZSPD),10:15,777-200ER,Austrian 
+OS17,Vienna (LOWW),Port Louis (FIMP),10:15,777-200ER,Austrian 
+OS65,Vienna (LOWW),Chicago (KORD),10:00,777-200ER,Austrian 
+OS63,Vienna (LOWW),Beijing (ZBAA),10:00,767-300,Austrian 
+OS45,Vienna (LOWW),Male (VRMM),9:00,B767-300,Austrian 
+OS9505,Vienna (LOWW),Tenerife (GCTS),4:50,A320-200,Austrian 
+OS857,Vienna (LOWW),Tel Aviv (LLBG),3:25,A321-200,Austrian 
+OS335,Vienna (LOWW),Oslo (ENGM),2:20,E195,Austrian 
+OS411,Vienna (LOWW),Paris (LFPG),2:10,A320-200,Austrian 
+OS413,Vienna (LOWW),Paris (LFPG),2:10,A320-200,Austrian 
+OS9409,Vienna (LOWW),Catania (LICC),2:05,A320-200,Austrian 
+OS407,Vienna (LOWW),Lyon (LFLL),1:45,E195,Austrian 
+OS429,Vienna (LOWW),Nice (LFMN),1:45,E195,Austrian 
+OS175,Vienna (LOWW),Hamburg (EDDH),1:35,A320-200,Austrian 
+OS191,Vienna (LOWW),Cologne (EDDK),1:35,A320-200,Austrian 
+OS785,Vienna (LOWW),Sibiu (LRSB),1:30,Dash-8 Q400,Austrian 
+OS161,Vienna (LOWW),Dusseldorf (EDDL),1:30,A320-200,Austrian 
+OS187,Vienna (LOWW),Stuttgart (EDDS),1:15,A320-200,Austrian 
+OS753,Vienna (LOWW),Zadar (LDZD),1:10,A320-200,Austrian 
+OS773,Vienna (LOWW),Belgrade (LYBE),1:05,E195,Austrian 
+OS111,Vienna (LOWW),Munich (EDDM),1:05,A320-200,Austrian 
+OS113,Vienna (LOWW),Munich (EDDM),1:05,E195,Austrian 
+OS529,Vienna (LOWW),Venice (LIPZ),1:05,E195,Austrian 
+OS505,Vienna (LOWW),Rome (LIRF),1:35,A319-100,Austrian 
+OS805,Vienna (LOWW),Sofia (LBSF),1:30,E195,Austrian 
+OS795,Vienna (LOWW),Sofia (LBSF),1:30,A320-200,Austrian 
+OS797,Vienna (LOWW),Sofia (LBSF),1:30,A319-100,Austrian 
+OS563,Vienna (LOWW),Zurich (LSZH),1:25,A320-200,Austrian 
+OS515,Vienna (LOWW),Milan (LIMC),1:25,E195,Austrian 
+OS731,Vienna (LOWW),Dubrovnik (LDDU),1:15,A321-200,Austrian 
+OS177,Vienna (LOWW),Stuttgart (EDDS),1:15,A320-200,Austrian 
+OS529,Vienna (LOWW),Venice (LIPZ),1:05,E195,Austrian 
+OS743,Vienna (LOWW),Kosice (LZKZ),1:00,E195,Austrian 
+OS82,Los Angeles (KLAX),Vienna (LOWW),11:35,777-200ER,Austrian 
+OS76,Shanghai (ZSPD),Vienna (LOWW),11:15,777-200ER,Austrian 
+OS52,Tokyo (RJAA),Vienna (LOWW),10:55,777-200ER,Austrian 
+OS64,Beijing (ZBAA),Vienna (LOWW),10:15,767-300,Austrian 
+OS18,Port Louis (FIMP),Vienna (LOWW),10:10,777-200ER,Austrian 
+OS46,Male (VRMM),Vienna (LOWW),9:55,767-300,Austrian 
+OS66,Chicago (KORD),Vienna (LOWW),9:00,777-200ER,Austrian 
+OS9506,Tenerife (GCTS),Vienna (LOWW),4:35,A320-200,Austrian 
+OS858,Tel Aviv (LLBG),Vienna (LOWW),3:10,A321-200,Austrian 
+OS336,Oslo (ENGM),Vienna (LOWW),2:00,E195,Austrian 
+OS408,Lyon (LFLL),Vienna (LOWW),1:45,E195,Austrian 
+OS9410,Catania (LICC),Vienna (LOWW),1:45,A320-200,Austrian 
+OS412,Paris (LFPG),Vienna (LOWW),1:30,A320-200,Austrian 
+OS414,Paris (LFPG),Vienna (LOWW),1:30,A320-200,Austrian 
+OS430,Nice (LFMN),Vienna (LOWW),1:20,E195,Austrian 
+OS162,Dusseldorf (EDDL),Vienna (LOWW),1:20,A320-200,Austrian 
+OS188,Stuttgart (EDDS),Vienna (LOWW),1:20,A320-200,Austrian 
+OS178,Stuttgart (EDDS),Vienna (LOWW),1:20,A320-200,Austrian 
+OS786,Sibiu (LRSB),Vienna (LOWW),1:15,Dash-8 Q400,Austrian 
+OS176,Hamburg (EDDH),Vienna (LOWW),1:15,A320-200,Austrian 
+OS192,Cologne (EDDK),Vienna (LOWW),1:15,A320-200,Austrian 
+OS774,Belgrade (LYBE),Vienna (LOWW),1:00,E195,Austrian 
+OS530,Venice (LIPZ),Vienna (LOWW),0:55,E195,Austrian 
+OS530,Venice (LIPZ),Vienna (LOWW),0:55,E195,Austrian 
+OS754,Zadar (LDZD),Vienna (LOWW),0:50,A320-200,Austrian 
+OS112,Munich (EDDM),Vienna (LOWW),0:50,A320-200,Austrian 
+OS114,Munich (EDDM),Vienna (LOWW),0:50,E195,Austrian 
+OS806,Sofia (LBSF),Vienna (LOWW),1:30,E195,Austrian 
+OS796,Sofia (LBSF),Vienna (LOWW),1:30,A320-200,Austrian 
+OS798,Sofia (LBSF),Vienna (LOWW),1:30,A319-100,Austrian 
+OS506,Rome (LIRF),Vienna (LOWW),1:15,A319-100,Austrian 
+OS732,Dubrovnik (LDDU),Vienna (LOWW),1:05,A321-200,Austrian 
+OS562,Zurich (LSZH),Vienna (LOWW),1:00,A320-200,Austrian 
+OS516,Milan (LIMC),Vienna (LOWW),1:00,E195,Austrian 
+OS744,Kosice (LZKZ),Vienna (LOWW),0:50,E195,Austrian 
