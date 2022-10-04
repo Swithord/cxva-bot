@@ -461,4 +461,4 @@ async def debug(ctx):
       
     
 
-client.run("OTc4MzIzNjI2MzM4MTc3MDQ1.GU4EGQ.MsZelP_yuQeJvVMPVN30dqDwQ4sjsMprSlZysM")
+client.run("token")
